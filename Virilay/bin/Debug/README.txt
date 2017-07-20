@@ -1,24 +1,35 @@
-==VIRILAY==
-=SETUP=
-1. Run configurator
-2. Fill out twitch settings
-	-Chat Oauth should look something like this:
-	    oauth:12018h30f13g083fg1
-	-Setgame Oaauth should look something like this:
-	    19471agka9eri0
+== Hello UpThere! ==
+This project hasn't been updated to use Twitch API v5 (this currently uses v2!)
+As such, it doesn't actually connect to the Twitch API. Feel free to play with
+the following features:
+   -Any commands listed in the COMMANDS reference below, such as
+       !splat
+       !ping google.com 3
+       !roll 3d6
+       !asynchronous
+       !help roll
+   -Write your own commands by creating cs files in the
+    UserScripts/Autoload directory.
+   -Open notepad (or other application), and input the following commands
+       !play notepad
+       !type "hello world" 
+       !rightclick
+ 
+==CREATING COMMANDS==
+Any command tagged as 'viewerpermitted' can be run by viewers
+For Virilay, to allow viewers access to this command
+     void Roll(string dieroll)
+Add the following code
+     [ViewerPermitted]
+     void Roll(string dieroll)
+If you wanted to add help text when users type !help, use the
+help attribute.
 
-=COMMANDS=
-To execute a command, type '!<commandname> <param1> <param2> ... <paramn>'.
-For example, 
-	!twitch virifaux spyparty
+Use Console.WriteLine or return to report text
+If you want to use an external framework, add the dlls to
+UserScripts/dll. Remember to also create a text file!
 
-==COMMANDS==
-Any command tagged as 'viewerpermitted' can be run by plebes
-For Virilay, an example syntax for
-     void Roll(string dieroll
-is
-     !roll 3d6
-
+==RULES REFERENCE==
 =VIRI.LIEUTENANTS.EXECUTOR=
 void AddLieutenant(object uses)
 
@@ -93,13 +104,11 @@ void Obs()
 
 void TS()
 
-void End()
-
 void SpyParty()
 
 void Ping(string host, int32 num)
 
-void Hi()
+void Asynchronous()
 
 int32 Random(int32 min, int32 max)
 Returns a number from [min,max], inclusive
