@@ -1,0 +1,11 @@
+FontSize=12
+StartX=77
+StartY=620
+StartWidth=350
+Username=virifaux
+AccessToken=z7orlk6cokpn0xnh71gpe8c8zdd9oh
+Opacity=20
+FadeTime=7
+OutputCount=8
+OutputGoesUp=True
+OAuth=oauth:b96jc7tdazswb5i708o9fpkvkttn1md
