@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virilay", "Virilay\Virilay.csproj", "{143D5CF5-9DB2-4726-9D3F-2927B46FD623}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigManager", "ConfigManager\ConfigManager.csproj", "{844FA192-92EA-4209-A98C-E708FEE95441}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverlayImages", "OverlayImages\OverlayImages.csproj", "{02B7332F-B739-42EE-9D30-3E771722532A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viri", "Virilib\Viri.csproj", "{CD3535D4-8E42-4513-9412-AF21D3D6E220}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{143D5CF5-9DB2-4726-9D3F-2927B46FD623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{143D5CF5-9DB2-4726-9D3F-2927B46FD623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{143D5CF5-9DB2-4726-9D3F-2927B46FD623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{143D5CF5-9DB2-4726-9D3F-2927B46FD623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{844FA192-92EA-4209-A98C-E708FEE95441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844FA192-92EA-4209-A98C-E708FEE95441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844FA192-92EA-4209-A98C-E708FEE95441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844FA192-92EA-4209-A98C-E708FEE95441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B7332F-B739-42EE-9D30-3E771722532A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B7332F-B739-42EE-9D30-3E771722532A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B7332F-B739-42EE-9D30-3E771722532A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B7332F-B739-42EE-9D30-3E771722532A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD3535D4-8E42-4513-9412-AF21D3D6E220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD3535D4-8E42-4513-9412-AF21D3D6E220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD3535D4-8E42-4513-9412-AF21D3D6E220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD3535D4-8E42-4513-9412-AF21D3D6E220}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
