@@ -1,0 +1,14 @@
+C:\Users\BensonDe\Dropbox\Projects\Virilay\Components\bin\Release\Components.dll.config
+C:\Users\BensonDe\Dropbox\Projects\Virilay\Components\bin\Release\Components.dll
+C:\Users\BensonDe\Dropbox\Projects\Virilay\Components\bin\Release\Components.pdb
+C:\Users\BensonDe\Dropbox\Projects\Virilay\Components\bin\Release\NCalc.dll
+C:\Users\BensonDe\Dropbox\Projects\Virilay\Components\bin\Release\OverlayImages.dll
+C:\Users\BensonDe\Dropbox\Projects\Virilay\Components\bin\Release\Viri.dll
+C:\Users\BensonDe\Dropbox\Projects\Virilay\Components\bin\Release\InputSimulator.dll
+C:\Users\BensonDe\Dropbox\Projects\Virilay\Components\bin\Release\OverlayImages.pdb
+C:\Users\BensonDe\Dropbox\Projects\Virilay\Components\bin\Release\Viri.pdb
+C:\Users\BensonDe\Dropbox\Projects\Virilay\Components\bin\Release\InputSimulator.pdb
+C:\Users\BensonDe\Dropbox\Projects\Virilay\Components\bin\Release\InputSimulator.xml
+C:\Users\BensonDe\Dropbox\Projects\Virilay\Components\obj\Release\Components.csprojResolveAssemblyReference.cache
+C:\Users\BensonDe\Dropbox\Projects\Virilay\Components\obj\Release\Components.dll
+C:\Users\BensonDe\Dropbox\Projects\Virilay\Components\obj\Release\Components.pdb

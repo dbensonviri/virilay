@@ -1,0 +1,11 @@
+FontSize=10
+Username=virifaux
+OAuth_SetGame=
+OAuth_Chat=default
+Opacity=20
+FadeTime=7
+OutputCount=8
+OutputGoesUp=True
+StartX=1068
+StartY=552
+StartWidth=300

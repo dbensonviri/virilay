@@ -1,0 +1,5 @@
+D:\Docs\Dropbox\Dropbox\Projects\Virilay\Virilib\obj\Debug\Virilib.csprojResolveAssemblyReference.cache
+D:\Docs\Dropbox\Dropbox\Projects\Virilay\Virilib\bin\Debug\Virilib.dll
+D:\Docs\Dropbox\Dropbox\Projects\Virilay\Virilib\bin\Debug\Virilib.pdb
+D:\Docs\Dropbox\Dropbox\Projects\Virilay\Virilib\obj\Debug\Virilib.dll
+D:\Docs\Dropbox\Dropbox\Projects\Virilay\Virilib\obj\Debug\Virilib.pdb
